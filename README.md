@@ -11,7 +11,7 @@
 #### Booth Encoder & Selector
 
 <p align="left">
-<img src="https://github.com/PaulLeeECE/6-bit-Multiplier-and-Accumualtor/blob/main/image/booth.jpg" width=50% height=50%>
+<img src="https://github.com/PaulLeeECE/6-bit-Multiplier-and-Accumualtor/blob/main/image/booth.jpg" width=40% height=40%>
 </p>
 
 #### 1-bit CSA (1-bit Full Adder)
