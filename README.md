@@ -70,5 +70,11 @@
 
 | Pre-sim | Post-sim |
 |  ----  |  ----  |
-| 775.19MHz (period:1.29ns) | 591.71MHz (period:1.69ns) |
+| 775.19 MHz (period:1.29ns) | 591.71 MHz (period:1.69ns) |
+
+#### Average Power
+
+| Pre-sim | Post-sim |
+|  ----  |  ----  |
+| 1.245e-02 W | 1.418e-02 W |
 
