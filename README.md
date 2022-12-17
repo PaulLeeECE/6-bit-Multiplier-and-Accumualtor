@@ -64,5 +64,11 @@
 <img src="https://github.com/PaulLeeECE/6-bit-Multiplier-and-Accumualtor/blob/main/image/CLA_layout.jpg" width=60% height=60%>
 </p>
 
+## Performance
 
+#### Maximum Operation Frequency
+
+| Pre-sim | Post-sim |
+|  ----  |  ----  |
+| 775.19MHz (period:1.29ns) | 591.71MHz (period:1.69ns) |
 
