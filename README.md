@@ -17,7 +17,7 @@
 #### 1-bit CSA (1-bit Full Adder)
 
 <p align="left">
-<img src="https://github.com/PaulLeeECE/6-bit-Multiplier-and-Accumualtor/blob/main/image/1_bit_CSA.jpg" width=60% height=60%>
+<img src="https://github.com/PaulLeeECE/6-bit-Multiplier-and-Accumualtor/blob/main/image/1_bit_CSA.jpg" width=30% height=30%>
 </p>
 
 #### CLA
@@ -61,7 +61,7 @@
 #### CLA
 
 <p align="left">
-<img src="https://github.com/PaulLeeECE/6-bit-Multiplier-and-Accumualtor/blob/main/image/cLA_layout.jpg" width=60% height=60%>
+<img src="https://github.com/PaulLeeECE/6-bit-Multiplier-and-Accumualtor/blob/main/image/CLA_layout.jpg" width=60% height=60%>
 </p>
 
 
